@@ -75,4 +75,4 @@ EUA.addEventListener('click', ()=>{
     })
 })
 
-// Final da lógica
+// Final da lógica finalizada
