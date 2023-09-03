@@ -74,3 +74,5 @@ EUA.addEventListener('click', ()=>{
         element.classList.toggle('translateHideSobre')
     })
 })
+
+// Final da lógica
