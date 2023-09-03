@@ -421,6 +421,7 @@ body{
     background-color: #e8e8e8;
     cursor: pointer;
     padding: 16px;
+    margin-bottom: 2rem;
   }
 
   .footer {
@@ -670,8 +671,7 @@ body{
 
   /* Inicio da seção footer */
   .footer img{
-    max-width: 170%;
-    scale: 170%;
+    min-width: 100%;
   }
 }
 .darkTitulo{
